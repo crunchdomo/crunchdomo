@@ -12,11 +12,6 @@ I'm a recent MSc graduate in Artificial Intelligence from VU Amsterdam, with a p
 
 ## 💡 Featured Projects
 
-### [Project-RL](https://github.com/crunchdomo/Project-RL)
-*Jupyter-based RL experiments and simulation*
-- Implements advanced RL algorithms for simulation and hardware robotics.
-- Focus on autonomous robot navigation, object interaction, and bridging the reality gap.
-
 ### [thesis-cooking-conversation-final](https://github.com/crunchdomo/thesis-cooking-conversation-final)
 *MSc Thesis — Multi-Ontology Augmentation for LLM-Based Cooking Instruction*
 - Developed a multi-agent system integrating FoodOn ontology and USDA nutritional databases.
@@ -25,6 +20,10 @@ I'm a recent MSc graduate in Artificial Intelligence from VU Amsterdam, with a p
 ### [restful-api-kpn-assessment](https://github.com/crunchdomo/restful-api-kpn-assessment)
 *RESTful API challenge built in Python*
 - Backend development and API design experience.
+
+#### More projects:
+- RL for Self-Adaptive Systems (see [thesis-cooking-conversation-final](https://github.com/crunchdomo/thesis-cooking-conversation-final))
+- ML experimentation, automation, and open-source contributions
 
 ---
 
