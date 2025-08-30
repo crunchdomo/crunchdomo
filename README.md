@@ -26,10 +26,6 @@ I'm a recent MSc graduate in Artificial Intelligence from VU Amsterdam, with a p
 *RESTful API challenge built in Python*
 - Backend development and API design experience.
 
-#### More projects:
-- RL for Self-Adaptive Systems (see [thesis-cooking-conversation-final](https://github.com/crunchdomo/thesis-cooking-conversation-final))
-- ML experimentation, automation, and open-source contributions
-
 ---
 
 ## 🧑‍💻 Skills
