@@ -17,12 +17,16 @@ I'm a recent MSc graduate in Artificial Intelligence from VU Amsterdam, with a p
 - Developed a multi-agent system integrating FoodOn ontology and USDA nutritional databases.
 - Built scalable pipelines and automated tools for benchmarking LLM-based educational AI.
 
+### [MockSAS](https://github.com/crunchdomo/MockSAS)
+*Python library for rapid scenario deployment in Self-Adaptive Systems (SAS) research*
+- Enables quick prototyping and evaluation of SAS behaviors and RL-based adaptation strategies.
+- Used in my Bachelor's thesis to create DingNet mock environments and uncover research opportunities in adaptive systems.
+
 ### [restful-api-kpn-assessment](https://github.com/crunchdomo/restful-api-kpn-assessment)
 *RESTful API challenge built in Python*
 - Backend development and API design experience.
 
 #### More projects:
-- RL for Self-Adaptive Systems (see [thesis-cooking-conversation-final](https://github.com/crunchdomo/thesis-cooking-conversation-final))
 - ML experimentation, automation, and open-source contributions
 
 ---
@@ -32,7 +36,7 @@ I'm a recent MSc graduate in Artificial Intelligence from VU Amsterdam, with a p
 - **Programming:** Python, Java, Rust, SQL
 - **AI/ML Frameworks:** Stable Baselines3, PyTorch, TensorFlow
 - **Technologies:** AWS, Jupyter Notebook, CoppeliaSim
-- **Specialties:** Reinforcement Learning, LLMs, Ontology Integration, ML Experimentation
+- **Specialties:** Reinforcement Learning, LLMs, Ontology Integration, ML Experimentation, Self-Adaptive Systems
 
 ---
 
