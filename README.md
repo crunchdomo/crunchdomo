@@ -36,11 +36,6 @@ I'm an MSc graduate in Artificial Intelligence from VU Amsterdam, specializing i
 - Benchmarked GPT-4, Claude 3.5, and Grok across 270 simulated teaching conversations
 - Established deterministic experiment pipeline with linguistic profiling of LLM pedagogical strategies
 
-### [50-HomeAssistant](https://github.com/crunchdomo/50-HomeAssistant)
-*Production Home Automation System*
-- Python configuration for KNX-based smart home deployment (172 devices, 11 climate zones)
-- Real-time monitoring dashboards and custom control interfaces
-- Recently updated March 2026
 
 ### [init-config](https://github.com/crunchdomo/init-config)
 *Ansible Homelab Configuration*
